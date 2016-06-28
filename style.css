@@ -1,0 +1,30 @@
+.divstyle, .div1 {
+  position: relative;
+  height: 70%;
+  width: 25%;
+  top: 2%;
+  background: #E40078;
+  box-shadow: 10px 10px 5px #888888; }
+
+.topbar {
+  height: 10%;
+  background: transparent;
+  color: #E40078;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Lobster", cursive; }
+
+body {
+  background-image: url("milkyWay.jpg");
+  background-size: 100% 100%; }
+
+.line {
+  width: 1%;
+  color: white;
+  filter: alpha(opacity=20);
+  -moz-opacity: 0.2;
+  -khtml-opacity: 0.2;
+  opacity: 0.2;
+  border: 5px solid rgba(255, 255, 255, 0.5); }
+
+/*# sourceMappingURL=style.css.map */
